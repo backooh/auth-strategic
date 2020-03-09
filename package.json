@@ -1,0 +1,11 @@
+{
+  "name": "auth-strategic",
+  "version": "1.0.0",
+  "description": "multiple user authentication techniques",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --require test/"
+  },
+  "author": "",
+  "license": "ISC"
+}
